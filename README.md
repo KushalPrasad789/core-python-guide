@@ -20,7 +20,7 @@ The repository is organized into **learner-friendly modules**:
 
 | Section | Topics |  
 |---------|--------|  
-| [01 - Introduction](/01-introduction) | Python history, installation, first program |  
+| [01 - Introduction to Python](/01-introduction) | Python history, installation, first program |  
 | [02 - Data Types and Variables](/02-data-types-variables) | Integers, floats, strings, booleans |  
 | [03 - Operators](/03-operators) | Arithmetic, comparison, logical operators |  
 | [04 - Strings](/04-strings) | Slicing, formatting, built-in methods |  
