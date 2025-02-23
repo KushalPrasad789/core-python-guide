@@ -21,21 +21,21 @@ The repository is organized into **learner-friendly modules**:
 | Section | Topics |  
 |---------|--------|  
 | [01 - Introduction](/01-introduction) | Python history, installation, first program |  
-| [02 - Data Types & Variables](/02-data-types-variables) | Integers, floats, strings, booleans |  
+| [02 - Data Types and Variables](/02-data-types-variables) | Integers, floats, strings, booleans |  
 | [03 - Operators](/03-operators) | Arithmetic, comparison, logical operators |  
 | [04 - Strings](/04-strings) | Slicing, formatting, built-in methods |  
-| [05 - Lists & Tuples](/05-data-structures-lists-tuples) | Indexing, methods, immutability |  
-| [06 - Dictionaries & Sets](/06-data-structures-dicts-sets) | Key-value pairs, set operations |  
-| [07 - Conditionals](/07-conditional-statements) | `if-elif-else`, ternary operator |  
+| [05 - Lists and Tuples](/05-lists-tuples) | Indexing, methods, immutability |  
+| [06 - Dictionaries and Sets](/06-dictionaries-sets) | Key-value pairs, set operations |  
+| [07 - Conditional Statements](/07-conditional-statements) | `if-elif-else`, ternary operator |  
 | [08 - Loops](/08-loops) | `for`, `while`, loop control |  
-| [09 - Functions & Recursion](/09-functions-recursion) | Parameters, scope, recursion |  
+| [09 - Functions and Recursion](/09-functions-recursion) | Parameters, scope, recursion |  
 | [10 - Error Handling](/10-error-handling) | `try-except`, custom exceptions |  
 | [11 - File Handling](/11-file-handling) | Reading/writing files, context managers |  
-| [12 - OOP](/12-object-oriented-programming) | Classes, inheritance, polymorphism |  
-| [13 - Modules & Packages](/13-modules-packages) | Imports, creating packages |  
+| [12 - Object Oriented Programming](/12-object-oriented-programming) | Classes, inheritance, polymorphism |  
+| [13 - Modules and Packages](/13-modules-packages) | Imports, creating packages |  
 | [14 - Functional Programming](/14-functional-programming) | Lambdas, decorators, `map/filter/reduce` |  
 | [15 - Advanced Concepts](/15-advanced-concepts) | Generators, iterators, regex |  
-| [16 - APIs & Data](/16-apis-data) | HTTP requests, JSON parsing |  
+| [16 - APIs and Data](/16-apis-data) | HTTP requests, JSON parsing |  
 | [17 - Virtual Environments](/17-virtual-environments) | `venv`, `pip`, packaging |  
 
 ---
@@ -61,20 +61,20 @@ python hello.py
 
 ---
 
-## 🎯 Projects & Exercises  
-### Real-World Projects (Build These!)  
-| Project | Description |  
-|---------|-------------|  
-| [🌤️ Weather CLI App](/projects/weather-cli-app) | Fetch real-time weather data using APIs |  
-| [📝 To-Do List](/projects/todo-list) | Manage tasks with file-based storage |  
-| [📖 Blog System](/projects/blog-system) | OOP-based blog with CRUD operations |  
-
-### Exercises (Level Up Your Skills)  
+## 🎯 Projects & Exercises 
+### 🏋️‍♂️ Exercises (Level Up Your Skills)  
 | Difficulty | Examples |  
 |------------|----------|  
 | [🟥 Beginner](/exercises/beginner) | Factorial calculator, number guessing game |  
 | [🟨 Intermediate](/exercises/intermediate) | CSV data parser, password strength checker |  
 | [🟩 Advanced](/exercises/advanced) | API-driven weather dashboard, web scraper |  
+ 
+### 🌍 Real-World Projects (Build These!)  
+| Project | Description |  
+|---------|-------------|  
+| [🌤️ Weather CLI App](/projects/weather-cli-app) | Fetch real-time weather data using APIs |  
+| [📝 To-Do List](/projects/todo-list) | Manage tasks with file-based storage |  
+| [📖 Blog System](/projects/blog-system) | OOP-based blog with CRUD operations |  
 
 ---
 
