@@ -31,9 +31,9 @@ s = "H" + s[1:]  # "Hello"
 ### 2. **Encoding/Decoding Issues**  
 ```python  
 # Bytes vs. Unicode  
-data = b"Hello"  # Bytes  
-text = "Hello"    # Unicode  
-print(data.decode("utf-8") == text)  # True  
+data = b"Hello"  # Bytes object
+text = "Hello"    # Unicode string
+print(data.decode("utf-8") == text)  # True
 ```  
 
 ---
@@ -91,11 +91,7 @@ path = r"C:\Users\Alice\Documents"  # No escape issues!
 
 ## ✅ Try It Yourself!  
 1. **Palindrome Check**:  
-   Write a function to check if a string reads the same backward.  
-   ```python  
-   def is_palindrome(s: str) -> bool:  
-       return s == s[::-1]  
-   ```  
+   Write a program to check if a string reads the same backward.  
 
 2. **Parse CSV String**:  
    Convert `"name,age,email\nAlice,25,alice@mail.com"` into a list of dictionaries.  
