@@ -51,7 +51,7 @@ nums = {1, 2, 2, 3}  # Duplicates auto-removed: {1, 2, 3}
 ### **Set Operations**  
 | Operation | Syntax | Example |  
 |-----------|--------|---------|  
-| Union | `set1 \| set2` | `{1,2} | {2,3} → {1,2,3}` |  
+| Union | `set1 \| set2` | `{1,2} \| {2,3} → {1,2,3}` |  
 | Intersection | `set1 & set2` | `{1,2} & {2,3} → {2}` |  
 | Difference | `set1 - set2` | `{1,2} - {2,3} → {1}` |  
 
