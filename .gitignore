@@ -2,4 +2,16 @@
 *.log
 
 # Ignore tempCodeRunnerFile.py
-tempCodeRunnerFile.py
+tempCodeRunnerFile.*
+
+# Ignore all .pyc files
+*.pyc
+
+# Ignore all the text files
+*.txt
+
+# Ignore all the .csv files
+*.csv
+
+# Ignore all the .json files
+*.json
