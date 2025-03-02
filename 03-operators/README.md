@@ -84,12 +84,7 @@ print(bin(user_perms))  # 0b110 (READ + WRITE)
    ```  
 
 2. **Calculate BMI**:  
-   Use arithmetic operators to compute BMI:  
-   ```python  
-   weight = 70  # kg  
-   height = 1.75  # meters  
-   bmi = weight / (height ** 2)  
-   ```  
+   Use an arithmetic operators to compute BMI  
 
 3. **Check Username Validity**:  
    Use `and`/`or` to validate:  
