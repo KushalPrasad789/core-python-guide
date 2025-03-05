@@ -10,6 +10,9 @@ tempCodeRunnerFile.*
 # Ignore all the text files
 *.txt
 
+# Track requirements.txt
+!requirements.txt
+
 # Ignore all the .csv files
 *.csv
 
